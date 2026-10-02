@@ -1,0 +1,14 @@
+CEN0336_13660828_P1/
+CEN0336_2025_13660828_Python4/
+cena/
+cuffdiff.txt
+err.txt
+errors.txt
+fav_chr_cuffdiff.txt
+lista_HOME
+lista_HOME.txt
+meu_arquivo.txt
+out.txt
+problemsets/
+projetos/
+sequences.nt.fa
